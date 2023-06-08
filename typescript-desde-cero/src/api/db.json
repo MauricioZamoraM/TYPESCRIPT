@@ -1,0 +1,16 @@
+{
+  "subs": [
+    {
+      "nick": "string",
+      "months": 1,
+      "profileUrl": "string",
+      "description": "string"
+    },
+    {
+      "nick": "string",
+      "months": 1,
+      "profileUrl": "string",
+      "description": "string"
+    }
+  ]
+}
